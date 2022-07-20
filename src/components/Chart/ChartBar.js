@@ -1,4 +1,4 @@
-import './Chart.css';
+import './ChartBar.css';// my mistake, chartbar will include chartbar css then why i included chart css?
 
 const ChartBar = (props) => {
     let barFillHeight = '0%';
